@@ -19,3 +19,7 @@ print(type([1, 2, 3]))           # List
 print(type({'name':'Asabeneh'})) # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
+
+print("""I am Iron Man,
+No, I am Tony Stark,
+No, I am BATMAN!!!""") # 3 quotations are a multi line String Print Function
